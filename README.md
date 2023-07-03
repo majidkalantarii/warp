@@ -9,7 +9,7 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 ### Warp Uninsatll
 #### ```kill -15 $(pgrep warp-go) ```
 
-### Warp Uninsatll
+### Warp Stop
 #### ```systemctl stop wg-quick@wgcf```
 
 
